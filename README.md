@@ -2,7 +2,8 @@
 
 <!--
 **alejandroRoyo/alejandroRoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Representa texto de cabecera
+Esto es Markdown, aunque también se puede utilizar html
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
